@@ -6,7 +6,7 @@ android {
         applicationId "com.apyarapk.kagyi"
         minSdkVersion 14
         targetSdkVersion 26
-        versionCode 1
+        versionCode ၂
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }

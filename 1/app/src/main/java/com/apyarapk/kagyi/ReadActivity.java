@@ -102,18 +102,6 @@ public class ReadActivity extends AppCompatActivity {
             }
 
             @Override
-            public void onAdFailedToLoad(int i) {
-                super.onAdFailedToLoad(i);
-                loadADS();
-            }
-
-            @Override
-            public void onAdLeftApplication() {
-                super.onAdLeftApplication();
-                loadADS();
-            }
-
-            @Override
             public void onAdOpened() {
                 super.onAdOpened();
                 loadADS();
